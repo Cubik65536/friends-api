@@ -1,6 +1,7 @@
 name: Generator
 
 on:
+  workflow_dispatch:
   issues:
   watch:
     types: [started]
