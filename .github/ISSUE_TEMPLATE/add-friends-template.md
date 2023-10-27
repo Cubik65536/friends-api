@@ -1,0 +1,54 @@
+name: 友链模板
+description: 自助添加友链
+body:
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 检查清单
+      description: 请认真检查以下清单中的每一项，并在相符的项前打勾。
+      options:
+        - required: true
+          label: 已添加本站到您的友链中
+        - required: true
+          label: 合法的、非营利性、无商业广告、无木马植入
+        - required: true
+          label: 已经强制启用 HTTPS
+        - required: true
+          label: 有独立域名，非免费域名（例如 `cf`, `tk`，但不包括 `vercel.app` 这类托管平台提供的域名）
+        - required: true
+          label: 博客已运行至少半年，非刚搭建好，且正在活跃维护中
+        - required: true
+          label: 发布过至少 5 篇原创文章或者 10 篇转载文章，内容题材不限。需要已经更新至少两个月（自第一篇文章显示的时间开始算起）
+        - required: true
+          label: 网站内容不包含包括但不限于色情、暴力、血腥、低俗、引战等引人不适的内容，辱骂、挑衅、诽谤、反动等违反法律法规的内容，以及任何被认为不适宜的内容
+  - type: textarea
+    id: config-file
+    validations:
+      required: true
+    attributes:
+      label: 友链信息
+      description: 请在双引号中填写，不要修改格式
+      value: |
+        ```json
+        {
+            "title": "",
+            "url": "",
+            "avatar": "",
+            "screenshot": "",
+            "description": ""
+        }
+        ```
+  - type: input
+    id: friends-html
+    attributes:
+      label: 友链地址
+      description: 请输入您的友链页面地址。
+      placeholder: "如: https://www.cubik65536.top/friends/"
+    validations:
+      required: true
+  - type: input
+    id: friends-repo
+    attributes:
+      label: 友链仓库（可选）
+      description: 如果您使用 issue 作为友链源，请附上 issue 仓库链接。
+      placeholder: "如: https://github.com/Cubik65536/friends-api/"
