@@ -1,0 +1,48 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "学于始",
+      "url": "https://learnfs.com/",
+      "avatar": "https://raw.githubusercontent.com/crescenth/BlogImg/master/logo.png",
+      "screenshot": "https://github.com/crescenth/BlogImg/blob/master/Img/web.png",
+      "description": " 过尽千帆仍有梦 | 眉眼清扬是少年 "
+    },
+    {
+      "title": "CWorld’s Site",
+      "url": "https://cworld.top/",
+      "avatar": "https://cravatar.cn/avatar/1ffe42aa45a6b1444a786b1f32dfa8aa?s=96",
+      "screenshot": "",
+      "description": "求知若愚，虚怀若谷"
+    },
+    {
+      "title": "MerryJingle",
+      "url": "http://blog.pengfeima.cn",
+      "avatar": "https://avatars.githubusercontent.com/u/115222128",
+      "screenshot": "https://images_github.pengfeima.cn/images/202211172254234.png",
+      "description": "快乐的铃铛"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "screenshot": "",
+      "description": "星语日点灯"
+    },
+    {
+      "title": "Paji's blog",
+      "url": "https://blog.paji.uk",
+      "avatar": "https://blog.paji.uk/images/avatar.png",
+      "screenshot": "https://img.trumpdns.com/2022/05/06/kAKJBNhZ.png",
+      "description": "Blog of dz_paji.",
+      "keywords": "独立博客"
+    },
+    {
+      "title": "Cubik的小站",
+      "url": "https://cubik65536.top/",
+      "avatar": "https://img.cubik65536.top/CubikLogo.png",
+      "screenshot": "https://img.cubik65536.top/cubik65536-top-screenshot.png",
+      "description": "RECOMMENDED BY DR.CREATIVE"
+    }
+  ]
+}

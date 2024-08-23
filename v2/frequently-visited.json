@@ -1,0 +1,54 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Zikin 的独立博客",
+      "url": "https://zikin.org/",
+      "avatar": "https://cdn.jsdelivr.net/gh/ZikinCDN/img@latest/2023/logo-s-l.png",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "关关和六六",
+      "url": "https://www.gmcllp.cn",
+      "avatar": "https://www.gmcllp.cn/logo-y.png",
+      "screenshot": "",
+      "description": "向世界分享我们的故事"
+    },
+    {
+      "title": "優萌初華",
+      "url": "https://shoka.lostyu.me",
+      "avatar": "https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg",
+      "screenshot": "",
+      "description": "琉璃的医学 & 编程笔记"
+    },
+    {
+      "title": "MyBlog (MqyGalaxy|Blog)",
+      "url": "https://blog.moeqy.com/",
+      "avatar": "https://cravatar.cn/avatar/73426b309c6e3ef2cf3a82ff23353351",
+      "screenshot": "",
+      "description": "爱好 ACG 的温馨小窝"
+    },
+    {
+      "title": "Colsrch",
+      "url": "https://colsrch.cn/",
+      "avatar": "https://cdn.jsdelivr.net/gh/Colsrch/images/Colsrch/avatar.jpg",
+      "screenshot": "",
+      "description": "愿多年以后，我可以酌一杯清酒，烂醉如泥，梦中回到我们的曾经。"
+    },
+    {
+      "title": "Sukoshi",
+      "url": "https://sukoshi.xyz",
+      "avatar": "https://s.gravatar.com/avatar/7b5a0b07a98895278cfa862b1f32ae8f?s=200&r=g&d=retro",
+      "screenshot": "",
+      "description": "十八岁基层程序猿想做涩影狮"
+    },
+    {
+      "title": "皮皮凛の小窝",
+      "url": "https://owomoe.net/",
+      "avatar": "https://cdn.jsdelivr.net/gh/AyagawaSeirin/Assets/img/logo.jpg",
+      "screenshot": "",
+      "description": "永远相信美好的事情即将发生~"
+    }
+  ]
+}
