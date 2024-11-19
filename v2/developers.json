@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Evan's blog",
+      "url": "https://xugaoyi.com/",
+      "avatar": "https://fastly.jsdelivr.net/gh/xugaoyi/image_store/blog/20200103123203.jpg",
+      "screenshot": "",
+      "description": "Web前端技术博客，积跬步以至千里"
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png",
+      "screenshot": "https://bu.dusays.com/2022/10/23/63542895cfd29.png",
+      "description": "本博客主题作者"
+    },
+    {
+      "title": "鑫酱个人博客",
+      "url": "https://hakuya.me/",
+      "avatar": "https://hakuya.me/images/avatar.jpg",
+      "screenshot": "https://image.thum.io/get/https://hakuya.me/",
+      "description": ""
+    }
+  ]
+}

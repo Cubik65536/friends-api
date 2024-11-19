@@ -1,0 +1,68 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "晓雨杂记",
+      "url": "https://lihaoyu.cn/",
+      "avatar": "https://s2.loli.net/2022/06/12/RpGChkMjcwIOAaJ.jpg",
+      "screenshot": "",
+      "description": "一个屑初二学生的小窝"
+    },
+    {
+      "title": "旋律的博客",
+      "url": "https://e11z.net",
+      "avatar": "https://avatars.githubusercontent.com/u/89735151?v=4",
+      "screenshot": "",
+      "description": "专注干一些奇怪事情的地方"
+    },
+    {
+      "title": "吉吉博客",
+      "url": "https://mmdjiji.com",
+      "avatar": "https://mmdjiji.com/images/avatar.png",
+      "screenshot": "",
+      "description": "自古吉吉萌萌哒 (  ω  )"
+    },
+    {
+      "title": "Fawdlstty",
+      "url": "https://www.fawdlstty.com/",
+      "avatar": "https://avatars.githubusercontent.com/u/7323999?v=4",
+      "screenshot": "",
+      "description": "只感觉自己萌萌哒的程序猿~~"
+    },
+    {
+      "title": "KevinZnda",
+      "url": "https://kevinzonda.com",
+      "avatar": "https://avatars.githubusercontent.com/u/33132228?v=4",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "CharlieYu4994 的博客",
+      "url": "https://blog.charlie.moe",
+      "avatar": "https://blog.charlie.moe/images/avatar.png",
+      "screenshot": "",
+      "description": "一只猫猫的博客"
+    },
+    {
+      "title": "Mashirl's Blog",
+      "url": "https://mashirl.com",
+      "avatar": "https://cdn.jsdelivr.net/gh/Mashirl/Blog/source/images/avatar.jpg",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "Nofated's Blog",
+      "url": "https://blog.nofated.win",
+      "avatar": "https://pic.rmb.bdstatic.com/bjh/8b98d9798b6997e61a19d49503845644.png",
+      "screenshot": "",
+      "description": "I hope to be with you everyday."
+    },
+    {
+      "title": "Restent's Notebook",
+      "url": "https://blog.gxres.net",
+      "avatar": "https://library.gxres.net/images/icons/avatar.webp",
+      "screenshot": "",
+      "description": "静寂に問う 答えを求めて"
+    }
+  ]
+}
